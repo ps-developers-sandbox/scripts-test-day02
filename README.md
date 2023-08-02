@@ -1,7 +1,7 @@
 # GitHub for Developers
 
-- Class Date: THIS-DATE
-- Facilitator: @TEACHER-HANDLE
+- Class Date: Aug 3, 2023
+- Facilitator: @gzone404
 
 ## Class Resources
 
